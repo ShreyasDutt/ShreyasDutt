@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShreyasDutt
 - 👀 I’m interested in Web & App development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning full stack web dev
 - 💞️ I’m looking to collaborate on Android & web-based apps
 - 📫 How to reach me - shreyas.dutt@student.ufv.ca
 - 😄 Pronouns: he/him
