@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web & App development<br><br>🌱 I’m currently learning Full stack web development<br><br>👯 I’m looking to collaborate on Android & web-based apps<br><br>👨‍💻 All of my projects are available at https://shreyasdutt-portfolio.netlify.app/<br><br>📫 How to reach me shreyas.dutt@student.ufv.ca<br><br>⚡ Fun fact Avid gamer 🎮
+🔭 I’m currently working on Web & App development<br><br>🌱 I’m currently learning Full stack web development<br><br>👯 I’m looking to collaborate on Android & web-based apps<br><br>👨‍💻 My top projects are available at https://shreyasdutt-portfolio.netlify.app/<br><br>📫 How to reach me shreyas.dutt@student.ufv.ca<br><br>⚡ Fun fact Avid gamer 🎮
 
 
 ## 🌐 Socials:
