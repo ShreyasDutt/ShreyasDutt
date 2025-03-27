@@ -23,13 +23,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
+  <i class="devicon-tailwindcss-original colored"></i>
+    <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo"  />
 </div>
 
 ### 💡 About Me
-I'm a passionate Full full-stack developer. I love creating efficient and scalable web applications that solve real-world problems.
+I'm a passionate Full-stack developer. I love creating efficient and scalable web applications that solve real-world problems.
 
 ### 🛠️ Technologies & Tools
 - **Frontend:** React, HTML5, CSS3, Tailwind CSS
