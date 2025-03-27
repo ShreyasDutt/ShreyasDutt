@@ -29,7 +29,7 @@
 </div>
 
 ### 💡 About Me
-I'm a passionate Full Stack Developer specializing in the MERN stack. I love creating efficient and scalable web applications that solve real-world problems.
+I'm a passionate Full full-stack developer. I love creating efficient and scalable web applications that solve real-world problems.
 
 ### 🛠️ Technologies & Tools
 - **Frontend:** React, HTML5, CSS3, Tailwind CSS
