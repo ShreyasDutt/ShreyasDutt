@@ -1,30 +1,22 @@
-<br clear="both">
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
-
-<br clear="both">
+###
 
 <p align="left">My name is Shreyas, and I'm a student from Chandigarh living in Abbotsford, studying at UFV.</p>
 
-
-<br clear="both">
+###
 
 <h2 align="left">💡 About Me</h2>
 
-
-<br clear="both">
+###
 
 <p align="left">I'm a Full-Stack developer still learning the ropes. I break things, fix them, and sometimes pretend it was all part of the plan.</p>
 
 ###
 
-<br clear="both">
-
 <h3 align="left">🚀 Tech Stack</h3>
 
-
-<br clear="both">
+###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
@@ -54,6 +46,11 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/ShreyasDutt/ShreyasDutt/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
   <a href="https://open.spotify.com/user/31yyg6dzohxfocifll2bwdrplczm">
