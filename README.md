@@ -1,43 +1,82 @@
-<h1 align="left">Hi 👋! I'm Shreyas</h1>
+<br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShreyasDutt&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<img align="right" height="250" src="https://i.pinimg.com/736x/7b/08/44/7b0844fcb745775ab6c09af01eedbbc9.jpg" />
+###
 
-### 🚀 Tech Stack
+<br clear="both">
+
+<p align="left">My name is Shreyas, and I'm a student from Chandigarh living in Abbotsford, studying at UFV.</p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">💡 About Me</h2>
+
+###
+
+<br clear="both">
+
+<p align="left">I'm a Full-Stack developer still learning the ropes. I break things, fix them, and sometimes pretend it was all part of the plan.</p>
+
+###
+
+<br clear="both">
+
+<h3 align="left">🚀 Tech Stack</h3>
+
+###
+
+<br clear="both">
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
-  <i class="devicon-tailwindcss-original colored"></i>
-    <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
-### 💡 About Me
-I'm a passionate Full-stack developer. I love creating efficient and scalable web applications that solve real-world problems.
+###
 
-### 🛠️ Technologies & Tools
-- **Frontend:** React, HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, SQL
-- **Tools:** Postman, Figma, Framer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyasDutt/ShreyasDutt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyasDutt/ShreyasDutt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShreyasDutt/ShreyasDutt/output/pacman-contribution-graph.svg">
+</picture>
 
-### 📊 My GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyasDutt&theme=dark)
+###
 
-🚀 Always learning, always growing!
+<div align="center">
+  <a href="https://open.spotify.com/user/31yyg6dzohxfocifll2bwdrplczm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yyg6dzohxfocifll2bwdrplczm&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
