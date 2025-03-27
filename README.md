@@ -40,10 +40,4 @@ I'm a passionate Full full-stack developer. I love creating efficient and scalab
 ### 📊 My GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyasDutt&theme=dark)
 
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](Your LinkedIn URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
 🚀 Always learning, always growing!
