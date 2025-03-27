@@ -1,12 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
+  <img height="" src="https://i.pinimg.com/736x/e3/43/76/e343768150c5e93b03fd1893a01ac016.jpg"  />
+</div>
 
 ###
 
-<p align="left">My name is Shreyas, and I'm a student from Chandigarh living in Abbotsford, studying at UFV.</p>
-
-###
-
-<h2 align="left">💡 About Me</h2>
+<h1 align="left">Namaste, I'm Shreyas! 🙏</h1>
 
 ###
 
