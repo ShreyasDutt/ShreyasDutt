@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a Full-Stack developer still learning the ropes. I break things, fix them, and sometimes pretend it was all part of the plan.</p>
+<p align="left">Full-Stack developer: I break production just to learn how it actually runs.</p>
 
 ###
 
