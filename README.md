@@ -1,8 +1,8 @@
-<div style="text-align: center;">
-    <img src="https://i.pinimg.com/1200x/5d/47/e8/5d47e89aeb51547d7915b999e5e39ccd.jpg" alt="Profile-gif" width="100%" height="80%">
+<img width="640" height="400" alt="image" src="https://i.pinimg.com/originals/b2/58/85/b258854e249c5d4673a5938b90b6bbf5.gif" alt="Profile-gif" width="100%" height="80%">
 </div>
 
 ###
+
 
 <!-- <h1 align="left">Hi, I'm Shreyas! 🙏</h1> -->
 
