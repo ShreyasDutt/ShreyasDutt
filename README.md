@@ -1,22 +1,22 @@
 <div style="text-align: center;">
-    <img src="[https://media1.tenor.com/m/Dmimutp0T7kAAAAC/200iq-helloworld.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE4OXF0eWxjZ3ZlZXNtam5zYnpydnFtdjZqOTkxOG0zYjZidjFxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pI43YlhMoPqsE/giphy.gif)" alt="Profile-gif" width="100%" height="60%">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE4OXF0eWxjZ3ZlZXNtam5zYnpydnFtdjZqOTkxOG0zYjZidjFxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pI43YlhMoPqsE/giphy.gif" alt="Profile-gif" width="100%" height="60%">
 </div>
 
 ###
 
-<h1 align="left">Hi, I'm Shreyas! 🙏</h1>
+<!-- <h1 align="left">Hi, I'm Shreyas! 🙏</h1> -->
 
 ###
 
-<p align="left">Full-Stack developer: I break production just to learn how it actually runs.</p>
+<!-- <p align="left">Full-Stack developer: I break production just to learn how it actually runs.</p> -->
 
 ###
 
-<h3 align="left">🚀 What I use</h3>
+<!-- <h3 align="left">🚀 What I use</h3> -->
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -48,7 +48,7 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-</div>
+</div> -->
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<div align="center">
-</div>
+<!-- <div align="center">
+</div> -->
 
 ###
